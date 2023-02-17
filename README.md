@@ -3,6 +3,9 @@
 
                                     Login page
 ![login](https://user-images.githubusercontent.com/120645828/219394616-b16b90db-566b-4d76-b6be-536f73024f06.png)
+                                     signup page
+                           ![sign up](https://user-images.githubusercontent.com/120645828/219608503-04b72e00-f574-4efe-a735-6ba62e414e45.png)
+          
                                     index page
 ![index](https://user-images.githubusercontent.com/120645828/219394639-70f3d5fe-5f39-4da8-920b-f578e0a22aff.png)
                                     admin dashbord
